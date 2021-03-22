@@ -380,6 +380,16 @@ runtest() {
 		 speed_test '29105' '陕西西安５Ｇ' '移动'
 		 speed_test '29083' '青海西宁５Ｇ' '移动'
 		 speed_test '26656' '黑龙江哈尔滨' '移动'
+		 speed_test '26850' '无锡' '移动'
+		 speed_test '32291' '广州' '移动'
+		 speed_test '40131' '苏州5G' '移动'
+		 speed_test '17320' '镇江' '移动'
+		 speed_test '34559' '扬州' '移动'
+		 speed_test '17184' '天津' '移动'
+		 speed_test '25858' '北京' '移动'
+		 speed_test '24337' '成都' '移动'
+		 speed_test '4575' '成都' '移动'
+		 speed_test '16145' '兰州' '移动'
 
 		end=$(date +%s)  
 		rm -rf speedtest*
